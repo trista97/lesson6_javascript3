@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Trista Reeves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment uses javascript to create a photo gallery.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to access elements by id, tag name, class, name or selector.
+2. How to access element content, CSS properties, and attributes.
+3. How to add and remove document nodes.
